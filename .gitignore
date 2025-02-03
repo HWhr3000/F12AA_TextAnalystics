@@ -1,0 +1,43 @@
+# ========================================
+# macOS system files
+# ========================================
+# Finder directory metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+# Thumbnail files
+._*
+# Spotlight files and folder attributes
+.Spotlight-V100
+.Trashes
+
+# ========================================
+# Windows system files
+# ========================================
+# Thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder customizations
+Desktop.ini
+
+# Recycle Bin (Windows 10 and above, if present in the repository)
+$RECYCLE.BIN/
+
+# ========================================
+# Standard temporary and backup files
+# ========================================
+# Log files
+*.log
+
+# Temporary files (commonly created by text editors)
+*.tmp
+*.temp
+
+# Backup files (e.g., created by some editors)
+*.bak
+*.swp
+*.swo
